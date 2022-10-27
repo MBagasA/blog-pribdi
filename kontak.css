@@ -1,0 +1,42 @@
+body {
+    display: block;
+    overflow-x: hidden;
+
+    background-color: rgb(255, 255, 255);
+}
+
+
+nav {
+    background-color: #0c0c0c;
+}
+
+navbar ul li a {
+    color: #a9a9a9;
+    font-size: 30px;
+    margin: auto 20px;
+
+}
+
+navbar ul li a:hover {
+    color: #683aa4;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.fa-instagram {
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+.footer {
+    margin-top: 30px;
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    display: block;
+    height: 120px;
+    line-height: 30px;
+
+}
